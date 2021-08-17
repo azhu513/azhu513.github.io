@@ -17,6 +17,9 @@ preserving large differences"*
 * June 2017, BioC 2017, Boston MA  
 *"apeglm: Shrinkage Estimators for Differential Expression of RNA-Seq"*
 
+* August 2021, BioC 2021, Online
+*"R empowered large-scale genomics research and drug development"*
+
 <h2>Posters</h2>
 
 * March 2019, ENAR 2019, Philadelphia PA  
