@@ -36,5 +36,6 @@ My favorite statistics quote is "*Statistics is the grammar of science.*" by Kar
 
 <h2>Personal News</h2>
 <ul class="news-list">
-	<li><p>September 2019 - Invited talk for the <a href="https://symposium2021.icsa.org/">2021 ICSA Applied Statistics Symposium</a>, session title <em>Recent advances in statistical methods for large-scale omics data</em>. </p></li>
+	<li><p>August 2021 - Anqi will serve as the moderator for the <a href="https://www.bbsw.org/meetupevents">BBSW Meetup event</a>, in which we will discuss the genetic evidence supported drug target discovery and contributions by statisticians. </p></li>
+	<li><p>September 2021 - Invited talk for the <a href="https://symposium2021.icsa.org/">2021 ICSA Applied Statistics Symposium</a>, session title <em>Recent advances in statistical methods for large-scale omics data</em>. </p></li>
 </ul>
