@@ -5,6 +5,10 @@ layout: page
 
 <h2>Talks</h2>
 
+* September 2021, ICSA 2021, Online _**Invited**_ 
+*"Understanding gene-to-trait effect with GWAS and eQTL summary statistics with Bayesian hiearchical modeling"*
+
+
 * July 2019, JSM 2019, Denver CO  
 *"Nonparametric expression analysis using inferential replicate counts"*
 
