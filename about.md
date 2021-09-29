@@ -5,7 +5,7 @@ layout: page
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
 
-I am currently a scientist of computational biology at [23andMe Therapeutics](https://therapeutics.23andme.com/). In my role, I apply statistical methods and build computation tools to analyze genetics data and identify novel therapeutic targets. I also serve as one of the organizers of the [Bay Area Biotech-Pharma Statistics (BBSW) Meetups](https://www.bbsw.org/meetupabout).
+I am currently a statistician and bioinformatics scientist at [Genentech](https://www.gene.com/) OMNI Bioinformatics. From 2019-2021, I was a scientist of computational biology at [23andMe Therapeutics](https://therapeutics.23andme.com/). I also serve as one of the organizers of the [Bay Area Biotech-Pharma Statistics (BBSW) Meetups](https://www.bbsw.org/meetupabout).
 
 I graduated with a PhD from the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at [The University of North Carolina Chapel Hill](https://unc.edu) in 2019. I worked with [Dr. Michael Love](https://mikelove.github.io) and [Dr. Joseph Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/) to develop statistical methods for sequence count data and integrative functional genomics. During my PhD I worked at the [Biostatistics Core](https://unclineberger.org/biostats/) of [Lineberger Comprehensive Cancer Center](https://unclineberger.org/) collaborating with oncologists on multiple clinical and genomics studies. I also worked with [Dr. Donglin Zeng](http://bios.unc.edu/~dzeng/) on estimating and testing causal effects of drug/drug-drug interactions with electronic medical records (EMR).
 
@@ -36,6 +36,7 @@ My favorite statistics quote is "*Statistics is the grammar of science.*" by Kar
 
 <h2>Personal News</h2>
 <ul class="news-list">
+	<li><p>September 2021 - Anqi will join <a href="https://www.gene.com/">Genentech</a> OMNI Bioinformatics department. </p></li>
 	<li><p>September 2021 - Anqi will give an invited talk for the <a href="https://symposium2021.icsa.org/">2021 ICSA Applied Statistics Symposium</a>, session title <em>Recent advances in statistical methods for large-scale omics data</em>. </p></li>
 	<li><p>August 2021 - Anqi will serve as the moderator for the <a href="https://www.bbsw.org/meetupevents">BBSW Meetup event</a>, in which we will discuss the genetic evidence supported drug target discovery and contributions by statisticians. </p></li>
 	
