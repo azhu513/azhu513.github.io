@@ -7,6 +7,8 @@ My google scholar page is [here](https://scholar.google.com/citations?user=zcsUP
 
 <h2>Method paper</h2>
 
+Dorighi, Kristel M.[1], **Anqi Zhu [1]**, Jean-Philippe Fortin, Jerry Hung-Hao Lo, Jawahar Sudhamsu, Timothy J. Wendorff, Steffen Durinck, Marinella Callow, Scott A. Foster, and Benjamin Haley. "Accelerated drug-resistant variant discovery with an enhanced, scalable mutagenic base editor platform." Cell Reports 43, no. 6 (2024).
+
 **Anqi Zhu** [1], Nana Matoba [1], Emmaleigh Wilson, Amanda L. Tapia, Yun Li,
 Joseph G. Ibrahim, Jason L. Stein, Michael I. Love.
 MRLocus: identifying causal genes mediating a trait through Bayesian
