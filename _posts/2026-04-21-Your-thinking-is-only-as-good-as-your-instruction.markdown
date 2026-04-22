@@ -117,7 +117,7 @@ Vibe coding suggests looseness, intuition, flow.
 
 But when you introduce AI into that process, the opposite becomes true:
 
-***The more powerful the tool, the more precise you need to be.***
+**The more powerful the tool, the more precise you need to be.**
 
 AI doesn’t replace discipline—it punishes the lack of it.
 
@@ -130,4 +130,4 @@ In the age of AI, the hardest and most valuable skill is thinking in a way that 
 
 And that’s what vibe coding with AI ultimately taught me:
 
-***Clarity is no longer optional. It’s the interface.***
+**Clarity is no longer optional. It’s the interface.**
