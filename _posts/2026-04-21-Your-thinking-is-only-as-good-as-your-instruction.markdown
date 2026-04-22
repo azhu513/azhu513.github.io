@@ -8,7 +8,7 @@ tag:
 - github-pages
 star: true
 category: blog
-hidden: false # don't count this post in blog pagination
+hidden: false # count this post in blog pagination
 author: azhu513
 description: One lesson learned from vibe coding
 ---
@@ -83,9 +83,7 @@ It reduces blurriness incredibly.
 
 **From “Doing” to “Thinking Clearly”**
 
-Working with AI agents forced me to confront a hard truth:
-
-I used to confuse speed of execution with clarity of thought.
+Working with AI agents forced me to confront a hard truth: I used to confuse speed of execution with clarity of thought.
 
 But now, execution is cheap. The AI can generate code instantly.
 
@@ -101,9 +99,7 @@ This is less about coding and more about structured thinking.
 
 **A New Kind of Discipline**
 
-I’ve developed a simple rule for myself:
-
-If I can’t explain it clearly, I’m not ready to prompt it.
+I’ve developed a simple rule for myself: If I can’t explain it clearly, I’m not ready to prompt it.
 
 That means:
 
@@ -121,7 +117,7 @@ Vibe coding suggests looseness, intuition, flow.
 
 But when you introduce AI into that process, the opposite becomes true:
 
-The more powerful the tool, the more precise you need to be.
+***The more powerful the tool, the more precise you need to be.***
 
 AI doesn’t replace discipline—it punishes the lack of it.
 
@@ -129,14 +125,9 @@ AI doesn’t replace discipline—it punishes the lack of it.
 
 **Closing Thought**
 
-As an experienced data scientist, I used to think the hardest part of my job was building.
+In the age of AI, the hardest and most valuable skill is thinking in a way that can be understood by something that doesn’t share your intuition.
 
-Now I see it differently.
-
-The hardest—and most valuable—skill is thinking in a way that can be understood by something that doesn’t share your intuition.
-
-Whether that’s a teammate, your future self, or an AI agent.
 
 And that’s what vibe coding with AI ultimately taught me:
 
-Clarity is no longer optional. It’s the interface.
+***Clarity is no longer optional. It’s the interface.***
